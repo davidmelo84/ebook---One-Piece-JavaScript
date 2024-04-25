@@ -47,3 +47,7 @@ Este ebook está sob a [Licença MIT](LICENSE). Sinta-se livre para usar, modifi
 ---
 
 **Nota:** Este ebook é uma obra de fã inspirada no anime "One Piece" e destina-se apenas a fins educacionais e de aprendizado da linguagem JavaScript. O anime "One Piece" é propriedade da Shueisha e Eiichiro Oda.
+
+## Link do ebook 
+
+-[Ebook](https://github.com/davidmelo84/ebook---One-Piece-JavaScript) - Ebook JavaScript
